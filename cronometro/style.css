@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+div {
+    text-align: center;
+    
+}
+
+button {
+    height: 2.5em;
+    width: 5.5em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.iniciar {
+    background-color: green;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.parar {
+    background-color: red;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.limpar {
+    background-color: gray;
+    border-style: none;
+    border-radius: 5px;
+}
